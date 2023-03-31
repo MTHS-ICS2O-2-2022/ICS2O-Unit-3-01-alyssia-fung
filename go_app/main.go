@@ -22,9 +22,9 @@ func main() {
 	fmt.Scanln(&height)
 
 	// process
-	const area := (side1 + side2) * height / 2
+	area := (side1 + side2) * height / 2
 
 	// print out the calculated area of the trapezoid
-fmt.Printf("The area of the trapezoid is: %.2f\n", area)
-fmt.Println("\nDone.")
+	fmt.Printf("The area of the trapezoid is: %.2f\n", area)
+	fmt.Println("\nDone.")
 }
