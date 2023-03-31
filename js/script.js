@@ -5,7 +5,7 @@
 // This file contains the JS functions for index.html
 
 /**
- * This function calculates area and perimeter of rectangle.
+ * This function calculates the area and perimeter of the trapezoid.
  */
 "use strict"
 
